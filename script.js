@@ -8,6 +8,331 @@ const quizData = [
         d: 'Red',
         correct: 'b'
     },
+      {
+        question: 'What is the primary goal of economics?',
+        a: 'Maximize wants',
+        b: 'Efficient allocation of scarce resources',
+        c: 'Increase government revenue',
+        d: 'Control population',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is responsible for implementing laws in the Philippines?',
+        a: 'Judiciary',
+        b: 'Legislative',
+        c: 'Executive',
+        d: 'COMELEC',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Demand refers to:',
+        a: 'Desire to buy only',
+        b: 'Ability to buy only',
+        c: 'Willingness and ability to buy',
+        d: 'Quantity supplied',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What agency administers elections in the Philippines?',
+        a: 'CSC',
+        b: 'COA',
+        c: 'COMELEC',
+        d: 'DILG',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What happens to demand when price increases, ceteris paribus?',
+        a: 'Demand increases',
+        b: 'Demand decreases',
+        c: 'Demand stays the same',
+        d: 'Demand doubles',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who authored the Philippine Constitution?',
+        a: 'Supreme Court',
+        b: 'Constitutional Commission',
+        c: 'Congress',
+        d: 'President',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which tax is imposed on goods and services?',
+        a: 'Income tax',
+        b: 'VAT',
+        c: 'Property tax',
+        d: 'Tariff',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Elasticity of demand measures:',
+        a: 'Consumer income',
+        b: 'Price sensitivity of quantity demanded',
+        c: 'Production capacity',
+        d: 'Government spending',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What is fiscal policy?',
+        a: 'Central bank control of money',
+        b: 'Government spending and taxation',
+        c: 'Foreign trade regulation',
+        d: 'Price control',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Who appoints Supreme Court justices?',
+        a: 'Congress',
+        b: 'Chief Justice',
+        c: 'President',
+        d: 'Judicial Bar Council',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which curve shows the relationship between price and quantity demanded?',
+        a: 'Supply curve',
+        b: 'Demand curve',
+        c: 'Cost curve',
+        d: 'Revenue curve',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which economic indicator measures unemployment?',
+        a: 'GDP',
+        b: 'CPI',
+        c: 'Labor force participation rate',
+        d: 'Inflation rate',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'The law of supply states that:',
+        a: 'Higher price leads to lower supply',
+        b: 'Lower price leads to higher supply',
+        c: 'Higher price leads to higher supply',
+        d: 'Supply is constant',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the head of the judiciary?',
+        a: 'President',
+        b: 'Chief Justice',
+        c: 'Speaker of the House',
+        d: 'Senate President',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which sector transforms raw materials into finished goods?',
+        a: 'Primary',
+        b: 'Secondary',
+        c: 'Tertiary',
+        d: 'Quaternary',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What is monetary policy?',
+        a: 'Tax collection',
+        b: 'Money supply regulation',
+        c: 'Public spending',
+        d: 'Trade policy',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which Philippine hero founded the Katipunan?',
+        a: 'Emilio Aguinaldo',
+        b: 'Jose Rizal',
+        c: 'Andres Bonifacio',
+        d: 'Antonio Luna',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What is a monopoly?',
+        a: 'Many sellers',
+        b: 'One seller',
+        c: 'Two sellers',
+        d: 'Government seller only',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What does CPI measure?',
+        a: 'Production',
+        b: 'Employment',
+        c: 'Inflation',
+        d: 'Exports',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which sector includes banking and education?',
+        a: 'Primary',
+        b: 'Secondary',
+        c: 'Tertiary',
+        d: 'Quinary',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What type of good increases demand as income increases?',
+        a: 'Inferior good',
+        b: 'Normal good',
+        c: 'Public good',
+        d: 'Giffen good',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What is the main purpose of tariffs?',
+        a: 'Increase imports',
+        b: 'Protect local industries',
+        c: 'Lower prices',
+        d: 'Encourage smuggling',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which is a function of money?',
+        a: 'Control inflation',
+        b: 'Medium of exchange',
+        c: 'Regulate supply',
+        d: 'Produce goods',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What market structure has many sellers and identical products?',
+        a: 'Monopoly',
+        b: 'Oligopoly',
+        c: 'Perfect competition',
+        d: 'Monopolistic competition',
+        correct: 'c',
+        difficulty: 'hard'
+    },
+    {
+        question: 'Which agency manages government personnel?',
+        a: 'COA',
+        b: 'CSC',
+        c: 'COMELEC',
+        d: 'DILG',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What happens when price ceiling is imposed below equilibrium?',
+        a: 'Surplus',
+        b: 'Shortage',
+        c: 'Equilibrium',
+        d: 'Inflation',
+        correct: 'b',
+        difficulty: 'hard'
+    },
+    {
+        question: 'Who is known as the “Sublime Paralytic”?',
+        a: 'Antonio Luna',
+        b: 'Emilio Aguinaldo',
+        c: 'Apolinario Mabini',
+        d: 'Jose Rizal',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which is an example of public good?',
+        a: 'Rice',
+        b: 'Clothes',
+        c: 'National defense',
+        d: 'Cellphone',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What is economic growth?',
+        a: 'Increase in prices',
+        b: 'Increase in GDP',
+        c: 'Increase in population',
+        d: 'Increase in taxes',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which principle states people respond to incentives?',
+        a: 'Scarcity',
+        b: 'Rational behavior',
+        c: 'Incentive principle',
+        d: 'Trade-off principle',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What branch of economics studies the whole economy?',
+        a: 'Microeconomics',
+        b: 'Macroeconomics',
+        c: 'Behavioral economics',
+        d: 'Environmental economics',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What causes inflation-pull inflation?',
+        a: 'High production cost',
+        b: 'Increase in demand',
+        c: 'Decrease in supply',
+        d: 'High taxes',
+        correct: 'b',
+        difficulty: 'hard'
+    },
+    {
+        question: 'Which Philippine document declares basic rights?',
+        a: 'Civil Code',
+        b: 'Bill of Rights',
+        c: 'Penal Code',
+        d: 'Labor Code',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'What is the role of entrepreneurs?',
+        a: 'Provide labor',
+        b: 'Provide land',
+        c: 'Take risks and organize production',
+        d: 'Collect taxes',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which is a regressive tax?',
+        a: 'Income tax',
+        b: 'VAT',
+        c: 'Corporate tax',
+        d: 'Estate tax',
+        correct: 'b',
+        difficulty: 'hard'
+    },
+    {
+        question: 'What happens when supply decreases and demand remains constant?',
+        a: 'Price falls',
+        b: 'Price rises',
+        c: 'Quantity increases',
+        d: 'No change',
+        correct: 'b',
+        difficulty: 'medium'
+    }
+
 
   {
         question: 'Which government agency is responsible for monetary policy in the Philippines?',
@@ -217,7 +542,188 @@ const quizData = [
         c: 'Nitrogen',
         d: 'Helium',
         correct: 'b'
+    },
+        {
+        question: 'Who is the king of the Greek gods?',
+        a: 'Poseidon',
+        b: 'Hades',
+        c: 'Zeus',
+        d: 'Apollo',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the Greek goddess of wisdom?',
+        a: 'Hera',
+        b: 'Aphrodite',
+        c: 'Athena',
+        d: 'Artemis',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which god rules the underworld?',
+        a: 'Zeus',
+        b: 'Hades',
+        c: 'Ares',
+        d: 'Hermes',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the god of the sea?',
+        a: 'Apollo',
+        b: 'Ares',
+        c: 'Poseidon',
+        d: 'Hermes',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Mount Olympus is known as:',
+        a: 'Home of the Titans',
+        b: 'Home of Greek heroes',
+        c: 'Home of the Greek gods',
+        d: 'Entrance to the underworld',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the goddess of love and beauty?',
+        a: 'Hera',
+        b: 'Athena',
+        c: 'Aphrodite',
+        d: 'Demeter',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which god is known as the messenger of the gods?',
+        a: 'Apollo',
+        b: 'Hermes',
+        c: 'Hephaestus',
+        d: 'Ares',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the Greek god of war?',
+        a: 'Apollo',
+        b: 'Ares',
+        c: 'Zeus',
+        d: 'Hades',
+        correct: 'b',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which hero killed the Gorgon Medusa?',
+        a: 'Hercules',
+        b: 'Perseus',
+        c: 'Theseus',
+        d: 'Achilles',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'What weakness led to Achilles’ death?',
+        a: 'His head',
+        b: 'His heart',
+        c: 'His heel',
+        d: 'His hand',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the god of the sun, music, and prophecy?',
+        a: 'Hermes',
+        b: 'Apollo',
+        c: 'Dionysus',
+        d: 'Ares',
+        correct: 'b',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which goddess is associated with agriculture and harvest?',
+        a: 'Hera',
+        b: 'Athena',
+        c: 'Demeter',
+        d: 'Artemis',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Who is the wife of Zeus and queen of the gods?',
+        a: 'Aphrodite',
+        b: 'Athena',
+        c: 'Hera',
+        d: 'Demeter',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Which hero completed the Twelve Labors?',
+        a: 'Perseus',
+        b: 'Theseus',
+        c: 'Hercules',
+        d: 'Odysseus',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who wrote the epic poems Iliad and Odyssey?',
+        a: 'Sophocles',
+        b: 'Plato',
+        c: 'Homer',
+        d: 'Aristotle',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which monster has the body of a lion and the head of a human?',
+        a: 'Minotaur',
+        b: 'Cyclops',
+        c: 'Sphinx',
+        d: 'Hydra',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Who is the god of fire and blacksmithing?',
+        a: 'Apollo',
+        b: 'Ares',
+        c: 'Hephaestus',
+        d: 'Hermes',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'The Trojan War was fought over:',
+        a: 'Power',
+        b: 'Gold',
+        c: 'Helen of Troy',
+        d: 'Territory',
+        correct: 'c',
+        difficulty: 'easy'
+    },
+    {
+        question: 'Who is the goddess of the hunt and the moon?',
+        a: 'Athena',
+        b: 'Hera',
+        c: 'Artemis',
+        d: 'Aphrodite',
+        correct: 'c',
+        difficulty: 'medium'
+    },
+    {
+        question: 'Which hero is known for his long journey home after the Trojan War?',
+        a: 'Achilles',
+        b: 'Hector',
+        c: 'Odysseus',
+        d: 'Paris',
+        correct: 'c',
+        difficulty: 'medium'
     }
+
 ];
 
 const answersEls = document.querySelectorAll('.answer');

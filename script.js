@@ -14,8 +14,7 @@ const quizData = [
         b: 'Efficient allocation of scarce resources',
         c: 'Increase government revenue',
         d: 'Control population',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Who is responsible for implementing laws in the Philippines?',
@@ -23,8 +22,7 @@ const quizData = [
         b: 'Legislative',
         c: 'Executive',
         d: 'COMELEC',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'Demand refers to:',
@@ -32,8 +30,7 @@ const quizData = [
         b: 'Ability to buy only',
         c: 'Willingness and ability to buy',
         d: 'Quantity supplied',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'What agency administers elections in the Philippines?',
@@ -41,8 +38,7 @@ const quizData = [
         b: 'COA',
         c: 'COMELEC',
         d: 'DILG',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'What happens to demand when price increases, ceteris paribus?',
@@ -50,8 +46,7 @@ const quizData = [
         b: 'Demand decreases',
         c: 'Demand stays the same',
         d: 'Demand doubles',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Who authored the Philippine Constitution?',
@@ -59,8 +54,7 @@ const quizData = [
         b: 'Constitutional Commission',
         c: 'Congress',
         d: 'President',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'Which tax is imposed on goods and services?',
@@ -68,8 +62,7 @@ const quizData = [
         b: 'VAT',
         c: 'Property tax',
         d: 'Tariff',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Elasticity of demand measures:',
@@ -77,8 +70,7 @@ const quizData = [
         b: 'Price sensitivity of quantity demanded',
         c: 'Production capacity',
         d: 'Government spending',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'What is fiscal policy?',
@@ -86,8 +78,7 @@ const quizData = [
         b: 'Government spending and taxation',
         c: 'Foreign trade regulation',
         d: 'Price control',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'Who appoints Supreme Court justices?',
@@ -95,8 +86,7 @@ const quizData = [
         b: 'Chief Justice',
         c: 'President',
         d: 'Judicial Bar Council',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'Which curve shows the relationship between price and quantity demanded?',
@@ -104,8 +94,7 @@ const quizData = [
         b: 'Demand curve',
         c: 'Cost curve',
         d: 'Revenue curve',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Which economic indicator measures unemployment?',
@@ -113,8 +102,7 @@ const quizData = [
         b: 'CPI',
         c: 'Labor force participation rate',
         d: 'Inflation rate',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'The law of supply states that:',
@@ -122,8 +110,7 @@ const quizData = [
         b: 'Lower price leads to higher supply',
         c: 'Higher price leads to higher supply',
         d: 'Supply is constant',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'Who is the head of the judiciary?',
@@ -131,8 +118,7 @@ const quizData = [
         b: 'Chief Justice',
         c: 'Speaker of the House',
         d: 'Senate President',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Which sector transforms raw materials into finished goods?',
@@ -140,8 +126,7 @@ const quizData = [
         b: 'Secondary',
         c: 'Tertiary',
         d: 'Quaternary',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'What is monetary policy?',
@@ -149,8 +134,7 @@ const quizData = [
         b: 'Money supply regulation',
         c: 'Public spending',
         d: 'Trade policy',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'Which Philippine hero founded the Katipunan?',
@@ -158,8 +142,7 @@ const quizData = [
         b: 'Jose Rizal',
         c: 'Andres Bonifacio',
         d: 'Antonio Luna',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'What is a monopoly?',
@@ -167,8 +150,7 @@ const quizData = [
         b: 'One seller',
         c: 'Two sellers',
         d: 'Government seller only',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'What does CPI measure?',
@@ -176,8 +158,7 @@ const quizData = [
         b: 'Employment',
         c: 'Inflation',
         d: 'Exports',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'Which sector includes banking and education?',
@@ -185,8 +166,7 @@ const quizData = [
         b: 'Secondary',
         c: 'Tertiary',
         d: 'Quinary',
-        correct: 'c',
-        difficulty: 'easy'
+        correct: 'c'
     },
     {
         question: 'What type of good increases demand as income increases?',
@@ -194,8 +174,7 @@ const quizData = [
         b: 'Normal good',
         c: 'Public good',
         d: 'Giffen good',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'What is the main purpose of tariffs?',
@@ -203,8 +182,7 @@ const quizData = [
         b: 'Protect local industries',
         c: 'Lower prices',
         d: 'Encourage smuggling',
-        correct: 'b',
-        difficulty: 'medium'
+        correct: 'b'
     },
     {
         question: 'Which is a function of money?',
@@ -212,8 +190,7 @@ const quizData = [
         b: 'Medium of exchange',
         c: 'Regulate supply',
         d: 'Produce goods',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'What market structure has many sellers and identical products?',
@@ -221,8 +198,7 @@ const quizData = [
         b: 'Oligopoly',
         c: 'Perfect competition',
         d: 'Monopolistic competition',
-        correct: 'c',
-        difficulty: 'hard'
+        correct: 'c'
     },
     {
         question: 'Which agency manages government personnel?',
@@ -230,8 +206,7 @@ const quizData = [
         b: 'CSC',
         c: 'COMELEC',
         d: 'DILG',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'What happens when price ceiling is imposed below equilibrium?',
@@ -239,8 +214,7 @@ const quizData = [
         b: 'Shortage',
         c: 'Equilibrium',
         d: 'Inflation',
-        correct: 'b',
-        difficulty: 'hard'
+        correct: 'b'
     },
     {
         question: 'Who is known as the “Sublime Paralytic”?',
@@ -248,8 +222,7 @@ const quizData = [
         b: 'Emilio Aguinaldo',
         c: 'Apolinario Mabini',
         d: 'Jose Rizal',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'Which is an example of public good?',
@@ -257,8 +230,7 @@ const quizData = [
         b: 'Clothes',
         c: 'National defense',
         d: 'Cellphone',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'What is economic growth?',
@@ -266,8 +238,7 @@ const quizData = [
         b: 'Increase in GDP',
         c: 'Increase in population',
         d: 'Increase in taxes',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'Which principle states people respond to incentives?',
@@ -275,8 +246,7 @@ const quizData = [
         b: 'Rational behavior',
         c: 'Incentive principle',
         d: 'Trade-off principle',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'What branch of economics studies the whole economy?',
@@ -284,8 +254,7 @@ const quizData = [
         b: 'Macroeconomics',
         c: 'Behavioral economics',
         d: 'Environmental economics',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'What causes inflation-pull inflation?',
@@ -293,8 +262,7 @@ const quizData = [
         b: 'Increase in demand',
         c: 'Decrease in supply',
         d: 'High taxes',
-        correct: 'b',
-        difficulty: 'hard'
+        correct: 'b'
     },
     {
         question: 'Which Philippine document declares basic rights?',
@@ -302,8 +270,7 @@ const quizData = [
         b: 'Bill of Rights',
         c: 'Penal Code',
         d: 'Labor Code',
-        correct: 'b',
-        difficulty: 'easy'
+        correct: 'b'
     },
     {
         question: 'What is the role of entrepreneurs?',
@@ -311,8 +278,7 @@ const quizData = [
         b: 'Provide land',
         c: 'Take risks and organize production',
         d: 'Collect taxes',
-        correct: 'c',
-        difficulty: 'medium'
+        correct: 'c'
     },
     {
         question: 'Which is a regressive tax?',
@@ -320,8 +286,7 @@ const quizData = [
         b: 'VAT',
         c: 'Corporate tax',
         d: 'Estate tax',
-        correct: 'b',
-        difficulty: 'hard'
+        correct: 'b'
     },
     {
         question: 'What happens when supply decreases and demand remains constant?',
@@ -331,9 +296,7 @@ const quizData = [
         d: 'No change',
         correct: 'b',
         difficulty: 'medium'
-    }
-
-
+    },
   {
         question: 'Which government agency is responsible for monetary policy in the Philippines?',
         a: 'Department of Finance',

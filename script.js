@@ -7,7 +7,136 @@ const quizData = [
         c: 'Rectangle',
         d: 'Red',
         correct: 'b'
-    }, 
+    },
+
+  {
+        question: 'Which government agency is responsible for monetary policy in the Philippines?',
+        a: 'Department of Finance',
+        b: 'Bangko Sentral ng Pilipinas',
+        c: 'Bureau of Treasury',
+        d: 'BIR',
+        correct: 'b'
+    },
+    {
+        question: 'Scarcity is best defined as:',
+        a: 'Unlimited resources',
+        b: 'Limited wants',
+        c: 'Unlimited wants and limited resources',
+        d: 'Limited needs',
+        correct: 'c'
+    },
+    {
+        question: 'What law created the Bangko Sentral ng Pilipinas?',
+        a: 'RA 7160',
+        b: 'RA 7653',
+        c: 'RA 1425',
+        d: 'RA 6713',
+        correct: 'b'
+    },
+    {
+        question: 'Which of the following is NOT a factor of production?',
+        a: 'Land',
+        b: 'Labor',
+        c: 'Capital',
+        d: 'Money',
+        correct: 'd'
+    },
+    {
+        question: 'What economic system does the Philippines follow?',
+        a: 'Traditional economy',
+        b: 'Command economy',
+        c: 'Market economy',
+        d: 'Mixed economy',
+        correct: 'd'
+    },
+    {
+        question: 'Who wrote Noli Me Tangere?',
+        a: 'Andres Bonifacio',
+        b: 'Jose Rizal',
+        c: 'Graciano Lopez Jaena',
+        d: 'Marcelo H. del Pilar',
+        correct: 'b'
+    },
+    {
+        question: 'Inflation refers to:',
+        a: 'Increase in unemployment',
+        b: 'General increase in prices',
+        c: 'Decrease in money supply',
+        d: 'Increase in production',
+        correct: 'b'
+    },
+    {
+        question: 'What is GDP?',
+        a: 'Gross Domestic Product',
+        b: 'General Development Plan',
+        c: 'Government Debt Policy',
+        d: 'Gross Demand Price',
+        correct: 'a'
+    },
+    {
+        question: 'Who was the first President of the Philippines?',
+        a: 'Manuel L. Quezon',
+        b: 'Jose P. Laurel',
+        c: 'Emilio Aguinaldo',
+        d: 'Sergio Osmeña',
+        correct: 'c'
+    },
+    {
+        question: 'Which body makes laws in the Philippines?',
+        a: 'Judiciary',
+        b: 'Executive',
+        c: 'Legislative',
+        d: 'Commission on Elections',
+        correct: 'c'
+    },
+    {
+        question: 'What does BIR stand for?',
+        a: 'Bureau of Internal Revenue',
+        b: 'Bureau of Import Regulation',
+        c: 'Bureau of Investment Resources',
+        d: 'Bureau of Inland Revenue',
+        correct: 'a'
+    },
+    {
+        question: 'Opportunity cost is:',
+        a: 'The money spent',
+        b: 'The next best alternative foregone',
+        c: 'Total cost of production',
+        d: 'Profit earned',
+        correct: 'b'
+    },
+    {
+        question: 'Which Philippine body audits government funds?',
+        a: 'COA',
+        b: 'CSC',
+        c: 'COMELEC',
+        d: 'DOF',
+        correct: 'a'
+    },
+    {
+        question: 'What is the main function of prices in a market economy?',
+        a: 'Control inflation',
+        b: 'Allocate resources',
+        c: 'Increase taxes',
+        d: 'Reduce unemployment',
+        correct: 'b'
+    },
+    {
+        question: 'Who is the “Brains of the Katipunan”?',
+        a: 'Emilio Jacinto',
+        b: 'Andres Bonifacio',
+        c: 'Apolinario Mabini',
+        d: 'Antonio Luna',
+        correct: 'a'
+    },
+    {
+        question: 'A surplus occurs when:',
+        a: 'Demand exceeds supply',
+        b: 'Supply equals demand',
+        c: 'Supply exceeds demand',
+        d: 'Prices are low',
+        correct: 'c'
+    },
 
     {
         question: 'What is the title of the letter Rizal wrote before his execution?',
